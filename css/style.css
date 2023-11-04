@@ -161,7 +161,7 @@ img{
    color:rgb(197, 40, 40);
    margin-bottom: 30px;
    position: relative;
-   border:1px solid rgb(5, 49, 225);
+   border:0px solid rgb(5, 49, 225);
 }
 
 
@@ -306,4 +306,3 @@ img{
     }
     
 }
-
